@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "tries": 4,
+    "xspread": 1,
+    "yspread": 0,
+    "zspread": 1,
+    "feature": "jagged:spike_column"
+  }
+}

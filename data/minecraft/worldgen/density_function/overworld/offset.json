@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:mul",
+  "argument1": 0.75,
+  "argument2": "jagged:terrain/offset_base"
+}
